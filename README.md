@@ -64,11 +64,9 @@ Run the compiled executable:
 5. **Delete Complaint:** Remove a complaint record permanently from the system.
 6. **Generate Complaint Report:** View a statistical summary of complaint statuses and resolution rates.
 7. **Exit:** Save all changes, free allocated memory, and exit the application.
-<img width="1600" height="1000" alt="WhatsApp Image 2026-11-04 at 1 08 56 PM" src="https://github.com/user-attachments/assets/2c2c7d70-633c-4e7e-9bab-c10b8e71078a" />
 
-<img width="1600" height="1000" alt="WhatsApp Image 2026-11-04 at 1 08 56 PM (2)" src="https://github.com/user-attachments/assets/0327fdf6-31c7-4cd3-8dea-682d628261a7" />
+<img width="785" height="703" alt="Screenshot 2026-11-04 132330" src="https://github.com/user-attachments/assets/9821045d-e50f-4008-8622-20f10dddc87a" />
 
-<img width="1600" height="1000" alt="WhatsApp Image 2026-11-04 at 1 08 56 PM (3)" src="https://github.com/user-attachments/assets/c9b8c633-a2b2-4c50-9fec-9b3b08808a4e" />
 
 
 
