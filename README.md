@@ -66,7 +66,6 @@ Run the compiled executable:
 7. **Exit:** Save all changes, free allocated memory, and exit the application.
 <img width="1600" height="1000" alt="WhatsApp Image 2026-11-04 at 1 08 56 PM" src="https://github.com/user-attachments/assets/2c2c7d70-633c-4e7e-9bab-c10b8e71078a" />
 
-<img width="1600" height="1000" alt="WhatsApp Image 2026-11-04 at 1 08 56 PM (1)" src="https://github.com/user-attachments/assets/f404bdf5-1597-49bd-8543-6e9b4a999c93" />
 <img width="1600" height="1000" alt="WhatsApp Image 2026-11-04 at 1 08 56 PM (2)" src="https://github.com/user-attachments/assets/0327fdf6-31c7-4cd3-8dea-682d628261a7" />
 
 <img width="1600" height="1000" alt="WhatsApp Image 2026-11-04 at 1 08 56 PM (3)" src="https://github.com/user-attachments/assets/c9b8c633-a2b2-4c50-9fec-9b3b08808a4e" />
